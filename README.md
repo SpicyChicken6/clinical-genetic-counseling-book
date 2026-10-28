@@ -31,7 +31,7 @@ PDF 第 1 页为封面，因此正文的 PDF 页码 = 书内页码 + 1。第五�
 
 作者：**聂继**。作者公众号：**尘宇聊遗传**；公众号二维码及作者联系方式见原书前言。
 
-本仓库经作者许可分享原版 PDF，便于检索、阅读与学习。PDF 内容未作修改，保留原有署名、前言和作者信息；著作权归原作者及相关权利人所有。本仓库未为该书另行指定开源或 Creative Commons 许可。
+本仓库收录原版 PDF，便于检索、阅读与学习。PDF 内容未作修改，保留原有署名、前言和作者信息；著作权归原作者及相关权利人所有。如涉及侵权，请权利人通过本仓库 Issue 联系，我们将及时核实并删除相关内容。本仓库未为该书另行指定开源或 Creative Commons 许可。
 
 本仓库为资源镜像，由 SpicyChicken6 维护。作者后续更新请关注其公众号。书籍内容的反馈请通过前言列出的方式联系作者；本仓库的链接或文件问题可提交 issue。
 
@@ -43,7 +43,7 @@ PDF 第 1 页为封面，因此正文的 PDF 页码 = 书内页码 + 1。第五�
 
 Part III of the *Foundations of Clinical Genetic Counseling Practice* series, by Nie Ji (聂继), version **2026v1.1**. These English titles are informal translations for discovery; the book is in Chinese.
 
-A Chinese-language educational resource covering HGVS variant nomenclature, evidence for sequence variant classification, genetic report interpretation, clinical case studies, and selected genetic counseling topics. Shared with the author's permission; the original PDF is unchanged. This repository does not assign a new license to the book.
+A Chinese-language educational resource covering HGVS variant nomenclature, evidence for sequence variant classification, genetic report interpretation, clinical case studies, and selected genetic counseling topics. The original PDF is preserved without modification, including its attribution, preface, and author information. Copyright remains with the author and other rights holders. Rights holders with copyright concerns may contact the maintainer through a repository issue; we will promptly review the concern and remove the relevant content. This repository does not assign a new license to the book.
 
 ## 检索关键词 / Keywords
 
